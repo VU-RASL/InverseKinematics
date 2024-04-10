@@ -32,6 +32,10 @@ I am planning on using Unity and the Microsoft Mixed Reality Toolkit for my proj
 
 <https://github.com/sebastianstarke/BioIK>
 
+## Thank you!
+
+<https://akintokinematics.com/from-dh-parameters-to-inverse-kinematics/>
+
 ## Citations
 
 [^1]: "Automatic Supervisory Control of the Configuration and Behavior of Multibody Mechanisms," in _IEEE Transactions on Systems, Man, and Cybernetics_, vol. 7, no. 12, pp. 868-871, Dec. 1977, doi: 10.1109/TSMC.1977.4309644.
