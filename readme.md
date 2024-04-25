@@ -2,8 +2,6 @@
 
 _Isaiah Osborne_
 
-Can you see me?
-
 ## Project Description
 
 _Improving Augmented Reality Pose Redirection Using Potential Functions and Gradient Descent_
